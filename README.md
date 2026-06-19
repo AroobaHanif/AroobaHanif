@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Arooba 👋
 
-<!--
-**AroobaHanif/AroobaHanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Graduate, Capital University of Science and Technology (CUST), Islamabad/Rawalpindi
+🤖 AI/ML Engineer in the making — Computer Vision, Generative AI, LLMs
+🌍 Heading for my Master's in AI / Data Science
+📺 I run a wildlife & nature YouTube channel: The Wild Wonders
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I work on
+
+
+Fine-tuning LLMs (QLoRA, Unsloth) and building RAG pipelines
+Local LLM apps with Streamlit/Ollama
+Computer vision projects (e.g. CNN-based Signature Forgery Detection)
+Speech-to-reasoning pipelines using OpenAI Whisper
+
+
+🛠️ Tech I use
+
+Python PyTorch LangChain FastAPI OpenCV Scikit-learn SQL React n8n
+
+🌱 Currently learning
+
+Production-grade Python, AI Agents, and deployment — building toward a 16-week industry-skills roadmap.
+
+📫 Reach me
+
+
+LinkedIn:www.linkedin.com/in/arooba-hanif-69a966288
+Email: aroobahanif.cs22@gmail.com
+
+
+
+⭐️ Thanks for stopping by!
