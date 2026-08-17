@@ -1,34 +1,23 @@
 Hi, I'm Arooba 👋
 
-🎓 BSCS Graduate, Capital University of Science and Technology (CUST), Islamabad/Rawalpindi
-🤖 AI/ML Engineer in the making — Computer Vision, Generative AI, LLMs
-🌍 Heading for my Master's in AI / Data Science
-📺 I run a wildlife & nature YouTube channel: The Wild Wonders
+🎓 BSCS Graduate — CUST, Islamabad (3.37 CGPA · Dean's Honour Roll)
+🤖 AI Engineer — Generative AI · Computer Vision · LLMs · RAG Pipelines
+🔧 Currently interning at FlyRank AI · Anthropic Certified
+📍 Twin Cities, Pakistan
 
+What I build:
 
-🔭 What I work on
+LLM Fine-tuning with QLoRA and Unsloth
+RAG pipelines and MCP servers with Claude API
+Computer Vision systems with OpenCV
+Speech-to-Reasoning pipelines with OpenAI Whisper
+Full-stack apps with Flask · React.js · MySQL
 
+Tech Stack:
+Python · TensorFlow · PyTorch · OpenCV · Flask · React.js · Node.js · LangChain · Streamlit · BeautifulSoup · MySQL · Firebase · Git
 
-Fine-tuning LLMs (QLoRA, Unsloth) and building RAG pipelines
-Local LLM apps with Streamlit/Ollama
-Computer vision projects (e.g. CNN-based Signature Forgery Detection)
-Speech-to-reasoning pipelines using OpenAI Whisper
+Certifications:
+Anthropic · AWS ML Specialty · IBM · Dubai Future Foundation · IEEE
 
-
-🛠️ Tech I use
-
-Python PyTorch LangChain FastAPI OpenCV Scikit-learn SQL React n8n
-
-🌱 Currently learning
-
-Production-grade Python, AI Agents, and deployment — building toward a 16-week industry-skills roadmap.
-
-📫 Reach me
-
-
-LinkedIn:www.linkedin.com/in/arooba-hanif-69a966288
-Email: aroobahanif.cs22@gmail.com
-
-
-
-⭐️ Thanks for stopping by!
+📫 aroobahanif.cs22@gmail.com
+🔗 linkedin.com/in/arooba-hanif-69a966288
