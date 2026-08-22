@@ -1,6 +1,6 @@
 Hi, I'm Arooba 👋
 
-🎓 BSCS Graduate — CUST, Islamabad (3.37 CGPA · Dean's Honour Roll) 🤖 AI Engineer — Generative AI · Computer Vision · LLMs · RAG Pipelines 🔧 Currently interning at FlyRank AI · Anthropic Certified 📍 Rawalpindi & Islamabad, Pakistan
+🎓 BSCS Graduate — CUST, Islamabad 🤖 AI Engineer — Generative AI · Computer Vision · LLMs · RAG Pipelines 🔧 Currently interning at FlyRank AI · Anthropic Certified 📍 Rawalpindi & Islamabad, Pakistan
 
 What I build
 LLM Fine-tuning with QLoRA and Unsloth
