@@ -18,4 +18,4 @@ Anthropic · AWS ML Specialty · IBM · Dubai Future Foundation · IEEE
 
 Links
 
-🌐 Portfolio: aroobahanif.netlify.app 📫 Email: aroobahanif.cs22@gmail.com 🔗 LinkedIn: linkedin.com/in/arooba-hanif-69a966288
+🌐 Portfolio: [aroobahanif.netlify.app](https://aroobahanif.netlify.app/) 📫 Email: aroobahanif.cs22@gmail.com 🔗 LinkedIn: linkedin.com/in/arooba-hanif-69a966288
